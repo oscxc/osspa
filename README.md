@@ -12,11 +12,14 @@
 
   &emsp;2、易扩展
 
-  &emsp;3、设计合理
+  &emsp;3、可以刷新（localStorage 保存上次浏览的页）
+
+  &emsp;4、设计合理
 
 **缺点**:
 
   &emsp;1、为阅读简单，没有加入location.hash的显示
+
   &emsp;2、为阅读简单，没有加入history api功能
 
 ## 获取和引用 osspa
