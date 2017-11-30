@@ -27,7 +27,7 @@
 
 ## 演示 Demo
 
-[`index.html`](https://oscxc.github.io/osspa/index.html)
+[`index.html`](https://oscxc.github.io/osspa/)
 
 
 ## 联系我们
